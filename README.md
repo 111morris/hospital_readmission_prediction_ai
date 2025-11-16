@@ -16,6 +16,9 @@ project-root/
 ```
 
 ## Dataset
+Download Hospital Readmission Prediction from _`kaggle.com`_  
+https://www.kaggle.com/datasets/vanpatangan/readmission-dataset
+
 - **Train:** `train_df.csv` — includes features + `readmitted` (target)
 - **Test:** `test_df.csv` — same features, no `readmitted`
 - **Sample Submission:** `sample_submission.csv` — shows required output format
